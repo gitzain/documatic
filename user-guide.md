@@ -3,7 +3,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non tellus pretiu
 
 ## Table of content
 - [System Requirements](#system-requirements)
-- [Installation](#installation)
+- [Installation & Usage](#installation--usage)
+    - [Installation](#installation)
+    - [Usage](#usage)
 - [Getting Started](#getting-started)
 - [How To](#how-to)
   - [How do i x](#how-do-i-x)
@@ -13,8 +15,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non tellus pretiu
 ## System Requirements
 TODO: Put system requirements here.
 
-## Installation
-TODO: Put installation instructions here.
+## Installation & Usage
+
+### Installation
+TODO: Describe the installation process
+
+### Usage
+TODO: Write usage instructions
 
 ## Getting Started
 TODO: Put getting started instructions here.
