@@ -12,13 +12,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non tellus pretiu
 - [Troubleshoot](#troubleshoot)
 
 ## System Requirements
+TODO: Put system requirements here.
 
 ## Installation
+TODO: Put installation instructions here.
 
 ## Getting Started
+TODO: Put getting started instructions here.
 
 ### How do i x?
+TODO: Write 'how to' for this task.
 
 ### How do i y?
+TODO: Write 'how to' for this task.
 
 ## Troubleshoot
+TODO: Put troubleshooter here.
