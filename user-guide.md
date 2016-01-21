@@ -19,7 +19,7 @@ TODO: Put installation instructions here.
 ## Getting Started
 TODO: Put getting started instructions here.
 
-### How To
+## How To
 TODO: Write 'how to' for this task.
 
 ### How do i x?
