@@ -8,8 +8,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non tellus pretiu
     - [Installation](#installation)
     - [Usage](#usage)
 - [Getting Started](#getting-started)
-  - [How do i x](#how-do-i-x)
-  - [How do i y](#how-do-i-y)
+  - [How do i X](#how-do-i-x)
+  - [How do i Y](#how-do-i-y)
 - [Advanced Guide](#advanced-guide)
 - [Troubleshoot](#troubleshoot)
 
