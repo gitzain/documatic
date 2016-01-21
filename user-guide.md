@@ -7,4 +7,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non tellus pretiu
 - [Installation](#installation)
 - [Getting Started](#getting-started)
 - [How To](#how-to)
+  - [How do i x](#how-do-i-x)
+  - [How do i y](#how-do-i-y)
 - [Troubleshoot](#troubleshoot)
+
+## System Requirements
+
+## Installation
+
+## Getting Started
+
+### How do i x?
+
+### How do i y?
+
+## Troubleshoot
