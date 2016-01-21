@@ -8,9 +8,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non tellus pretiu
     - [Installation](#installation)
     - [Usage](#usage)
 - [Getting Started](#getting-started)
-- [How To](#how-to)
   - [How do i x](#how-do-i-x)
   - [How do i y](#how-do-i-y)
+- [Advanced Guide](#advanced-guide)
 - [Troubleshoot](#troubleshoot)
 
 <br />
@@ -30,16 +30,16 @@ TODO: Write usage instructions
 <br />
 ## Getting Started
 TODO: Put getting started instructions here.
-<br />
-<br />
-## How To
-TODO: Write 'how to' for this task.
 
 ### How do i x?
 TODO: Write 'how to' for this task.
 
 ### How do i y?
 TODO: Write 'how to' for this task.
+<br />
+<br />
+## Advanced Guide
+TODO: Put advanced guide here.
 <br />
 <br />
 ## Troubleshoot
