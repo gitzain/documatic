@@ -41,4 +41,4 @@ TODO: Write history
 TODO: Write credits
 
 ## License
-TODO: Write license
+See the LICENSE file in this project's directory.
