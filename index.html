@@ -99,6 +99,8 @@
 			  return strReturn;
 			}
 
+			/* PUT A LINK TO YOUR REPO HERE. At the moment this onyl supports public bitbucket repos. Bitbucket private repos coming soon. Github coming soon. */
+			/* https://api.bitbucket.org/2.0/repositories/<INSERT YOUR USERNAME HERE>/<INSERT YOUR REPO NAME HERE>/src?max_depth=10 */
 			var json_response = httpCall("https://api.bitbucket.org/2.0/repositories/sdrahnea/universal-data-converter/src?max_depth=10");
 			
 			function get_links(response)
