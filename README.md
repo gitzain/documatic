@@ -37,8 +37,7 @@ TODO: Screenshots of the app
 v0.1 Total hack version to get something working!
 
 ## Credits
-TODO: Write credits as below and delete this line
-- Name of person
+- The <a href="https://github.com/xriley/CoderDocs-Theme">template</a> used for the site produced is made by <a href="https://github.com/xriley">Xiaoying Riley</a>.
 - Template for this README is <a href="https://github.com/gitzain/template-README">Template-README</a> created by <a href="https://iamzain.com">Zain Khan</a>
 
 ## License
