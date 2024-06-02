@@ -30,7 +30,6 @@ Project is still a work in progress.
 Not released yet.
 
 ## Credits
-- The <a href="https://github.com/xriley/CoderDocs-Theme">template</a> used for the site produced is made by <a href="https://github.com/xriley">Xiaoying Riley</a>.
 - Template for this README is <a href="https://github.com/gitzain/template-README">Template-README</a> created by <a href="https://iamzain.com">Zain Khan</a>
 
 ## License
