@@ -2,7 +2,6 @@
 Documatic automatically generates beautiful user documentation from markdown files in your repository.
 
 ## Table of content
-
 - [Motivation](#motivation)
 - [Screenshots](#screenshots)
 - [Installation & Usage](#installation--usage)
@@ -18,9 +17,7 @@ Traditional methods of creating documentation often involve running servers or g
 TODO: Screenshots of the app
 
 ## Installation & Usage
-1. Download the files
-2. Edit line 104 the index.html as described just above line 104 in index.html.
-3. Save the file and open it in a web browser.
+Project is still a work in progress.
 
 ## Contributing
 1. Fork it!
@@ -30,7 +27,7 @@ TODO: Screenshots of the app
 5. Submit a pull request :D
 
 ## History
-v0.1 Total hack version to get something working!
+Not released yet.
 
 ## Credits
 - The <a href="https://github.com/xriley/CoderDocs-Theme">template</a> used for the site produced is made by <a href="https://github.com/xriley">Xiaoying Riley</a>.
