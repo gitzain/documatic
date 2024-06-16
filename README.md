@@ -1,6 +1,9 @@
 # Documatic
 Documatic automatically generates beautiful user documentation from markdown files in your repository.
 
+This repo is me playing with various projects that enable creation of documentation automatically.
+
+
 ## Table of content
 - [Motivation](#motivation)
 - [Screenshots](#screenshots)
@@ -30,6 +33,8 @@ Project is still a work in progress.
 Not released yet.
 
 ## Credits
+- v2 is ??? (Forgotten where i copied it from).
+- v1 is basically a copy of <a href="https://rstacruz.github.io/flatdoc/">Flatdoc</a> created by <a href="https://ricostacruz.com">Rico Sta. Cruz</a>
 - Template for this README is <a href="https://github.com/gitzain/template-README">Template-README</a> created by <a href="https://iamzain.com">Zain Khan</a>
 
 ## License
